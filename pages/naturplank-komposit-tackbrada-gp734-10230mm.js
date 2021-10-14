@@ -15,6 +15,7 @@ import pdfimg2 from "../assets/images/projects/pic.png";
 import pdfimg3 from "../assets/images/projects/pic1.png";
 import pdfimg4 from "../assets/images/projects/swedish.png";
 import pdfimg5 from "../assets/images/projects/greenplank-tds-composite-technical-data-sheet-1.jpg";
+import pdfimg6 from "../assets/images/projects/greenplank-composite-decking-installation-guide-1.jpg";
 import Head from "next/head";
 import Footer from "../components/footer";
 
