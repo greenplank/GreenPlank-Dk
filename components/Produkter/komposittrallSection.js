@@ -116,7 +116,7 @@ const DATA = [
           "Inspireret af den skandinaviske designtradition som..............."
       },
       {
-        link: "/sapphire-komposittrall",
+        link: "/sapphire-terrassebraedder",
         image: proImage14,
         title: "SAPPHIRE ™ terrassebrædder",
         text:

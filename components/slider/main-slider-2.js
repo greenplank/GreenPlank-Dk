@@ -70,7 +70,7 @@ const MainSliderTwo = () => {
 
               <Grid container spacing={3} >
                 <Grid item xs={6} sm={6}>
-                  <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-komposittrall" className="thm-btn thm-btn2 rounded-pill" ><center>Smart terrassebrædder</center></a>
+                  <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-terrassebraedder" className="thm-btn thm-btn2 rounded-pill" ><center>Smart terrassebrædder</center></a>
                 </Grid>
                 <Grid item xs={6} sm={6}>
                   <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="http://deckplanner.greenplank.eu/" className="thm-btn thm-btn2 rounded-pill" >Dækplanlægger</a>
@@ -219,7 +219,7 @@ const MainSliderTwo = () => {
 
               <Grid container spacing={3} >
                 <Grid item xs={6} sm={6}>
-                  <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-komposittrall" className="thm-btn thm-btn3 rounded-pill" ><center>Smart terrassebrædder</center></a>
+                  <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-terrassebraedder" className="thm-btn thm-btn3 rounded-pill" ><center>Smart terrassebrædder</center></a>
                 </Grid>
                 <Grid item xs={6} sm={6}>
                   <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="http://deckplanner.greenplank.eu/" className="thm-btn thm-btn3 rounded-pill" >Dækplanlægger</a>

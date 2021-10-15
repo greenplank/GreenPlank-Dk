@@ -28,7 +28,7 @@ const HemGallery = () => {
                     <Col xl={6}>
                         <Row>
                             <Col md={12}>
-                                <a href="smart-komposittrall">
+                                <a href="smart-terrassebraedder">
                                     <div className="mt-20 mb-20">
                                         <img src={SmartTrall} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner text-center">
@@ -64,7 +64,7 @@ const HemGallery = () => {
                     <Col xl={6}>
                         <Row>
                             <Col md={6} xs={6}>
-                                <a href="marine-komposittrall">
+                                <a href="marine-terrassebraedder">
                                     <div className="mb-20 mt-20">
                                         <img src={MarineTrall} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner">
@@ -74,7 +74,7 @@ const HemGallery = () => {
                                 </a>
                             </Col>
                             <Col md={6} xs={6}>
-                                <a href="entra-trall">
+                                <a href="entra-terrassebraedder">
                                     <div className="mb-20 mt-20">
                                         <img src={EntraTrall} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner">
@@ -86,7 +86,7 @@ const HemGallery = () => {
                         </Row>
                         <Row>
                             <Col md={12}>
-                                <a href="classic-komposittrall">
+                                <a href="klassisk-terrassebraedder">
                                     <div className="mt-10">
                                         <img src={ClassicTrall} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner">

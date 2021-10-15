@@ -50,7 +50,7 @@ const NavLinks = ({ extraClassName }) => {
           <li className="dropdown">
             <Link href="#">
               <>
-              <Link href="/komposittrall">
+              <Link href="/komposit-terrassebraedder">
                 <a>Komposit Terrassebrædder</a>
                 </Link>
                 <button
@@ -63,32 +63,32 @@ const NavLinks = ({ extraClassName }) => {
             </Link>
             <ul className="dropdown-list">
               <li>
-                <Link href="/smart-komposittrall">
+                <Link href="/smart-terrassebraedder">
                   <a>Smart terrassebrædder</a>
                 </Link>
               </li>
               <li>
-                <Link href="/marine-komposittrall">
+                <Link href="/marine-terrassebraedder">
                   <a>Marine terrassebrædder</a>
                 </Link>
               </li>
               <li>
-                <Link href="/entra-trall">
+                <Link href="/entra-terrassebraedder">
                   <a>Entra terrassebrædder</a>
                 </Link>
               </li>
               <li>
-                <Link href="/classic-komposittrall">
+                <Link href="/klassisk-terrassebraedder">
                   <a>Klassisk terrassebrædder</a>
                 </Link>
               </li>
               <li>
-                <Link href="/tillbehor-till-komposittrall">
+                <Link href="/green-plank-tillbehor-till-kompositterrassebraedder">
                   <a>Komposit Terrassebrædder Tilbehør</a>
                 </Link>
               </li>
               <li>
-                <Link href="/everdeck-komposittrall">
+                <Link href="/green-plank-everdeck-terrassebraedder">
                   <a>EVERDECK™ Terrassebrædder</a>
                 </Link>
               </li>
@@ -97,7 +97,7 @@ const NavLinks = ({ extraClassName }) => {
           <li className="dropdown">
             <Link href="#">
               <>
-              <Link href="/fasadpanel">
+              <Link href="/facadebeklaedning">
                 <a>Facadebeklædning</a>
                 </Link>
                 <button
@@ -134,7 +134,7 @@ const NavLinks = ({ extraClassName }) => {
           <li className="dropdown">
             <Link href="#">
               <>
-              <Link href="/staket-system">
+              <Link href="/hegn-system">
                 <a>Hegn System</a>
                 </Link>
                 <button
@@ -164,14 +164,14 @@ const NavLinks = ({ extraClassName }) => {
             </ul>
           </li>
           <li>
-            <Link href="/plankor">
+            <Link href="/udendors-baenke">
               <a>udendørs bænke</a>
             </Link>
           </li>
           <li className="dropdown">
             <Link href="#">
               <>
-              <Link href="/golvplattor">
+              <Link href="/daekfliser">
                 <a>Dækfliser</a>
                 </Link>
                 <button
@@ -198,7 +198,7 @@ const NavLinks = ({ extraClassName }) => {
         </ul>
       </li>
       <li>
-        <Link href="/kontakata-oss">
+        <Link href="/kontakt-os">
           <a>Kontakt os</a>
         </Link>
       </li>
