@@ -64,9 +64,9 @@ const naturplankkompositplankagp729 = () => {
                               </p>
                               <div>
                                 <ul>
-                                  <li><strong>Premium-Qualität </strong> –  Bewährte nordische Qualitätsdielen für raues Wetter und umweltbewusstes Wohnen.</li>
-                                  <li><strong>Praktisch</strong> –   Perfekte Kombination aus Ästhetik und Funktionalität mit einem natürlichen Holz-Look.</li>
-                                  <li><strong>Außergewöhnlich wartungsarm</strong> –   Ideal für nordische Wetterbedingungen mit minimalem Verblassen, langer Lebensdauer und minimaler Wartung.</li>
+                                  <li><strong>Premium kvalitet </strong> –  Dokumenterede nordiske kvalitetsdele til hårdt vejr og miljøbevidste boliger.</li>
+                                  <li><strong>Praktisk</strong> –  Perfekt kombination af æstetik og funktionalitet med et naturligt trælook.</li>
+                                  <li><strong>Ekstremt dårlig vedligeholdelse</strong> –   Ideel til nordiske vejrforhold med minimal fading, lang levetid og minimal vedligeholdelse.</li>
                                 </ul>
                               </div>
                             </div>
@@ -95,24 +95,26 @@ const naturplankkompositplankagp729 = () => {
                                     <tr>
                                       <td align="left"><strong>Overflade
                                         :</strong></td>
-                                      <td align="left"> Skridsikker, glat overflade, slående optik, der efterligner eksotiske tropiske hårdttræer; Drejebrætter
+                                      <td align="left"> Skridsikker, glat overflade, slående optik, der efterligner eksotiske tropiske hårdttræer; Pladespillere
                                       </td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Storlek:</strong></td>
+                                      <td align="left"><strong>Størrelse
+:</strong></td>
                                       <td align="left">	ca. 20 * 305 mm</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Längd:</strong></td>
+                                      <td align="left"><strong>Længde
+:</strong></td>
                                       <td align="left">ca. 3.6 m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Vikt:</strong></td>
+                                      <td align="left"><strong>Vægt:</strong></td>
                                       <td align="left">ca. 8.20 kg / m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Regelavstånd:</strong></td>
-                                      <td align="left">40 cm c/c för kommersiell användning</td>
+                                      <td align="left"><strong>Regelafstand:</strong></td>
+                                      <td align="left">40 cm c / c til kommerciel brug</td>
                                     </tr>
                                   </tbody>
                                 </table>

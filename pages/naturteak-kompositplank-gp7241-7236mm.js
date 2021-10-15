@@ -39,27 +39,40 @@ const naturplankkompositplankagp7241 = () => {
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
                           <h2>
-                            NATURTEAK™ – Halksäkert och tålig däck för båtar och yachter – bättre än teakdäck och pvc-plast</h2>
-                          <strong>det gröna alternativet för teakträ med oändliga kreativa och designmöjligheter</strong>
+                            NATURAL TAKE ™ - Skridsikkert og holdbart dæk til både og lystbåde - bedre end teaktræsdæk og PVC -plast
+                          </h2>
+                          <strong>den grønne mulighed for teaktræ med uendelige kreative og designmuligheder
+                          </strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>Vackert realistiskt och mycket praktiskt med en tidlös kvalitet NATURTEAK ™ Komposit med naturligt fiber teakgolv för båtar och yachter är mycket fjädrande, icke-halkande, UV-stabila och ser ut som äkta teakträ. Perfekt för lyxbåtar och yachter.</strong>
+                              <strong>Smukt realistisk og meget praktisk med en tidløs kvalitet NATURAL TAKE ™ Komposit med naturfiber teaktræsgulv til både og lystbåde er meget elastisk, skridsikkert, UV-stabilt og ligner ægte teaktræ. Perfekt til luksusbåde og lystbåde.
+                              </strong>
                               <p>
-                                Green Plank NATURTEAK ™ komposit teakbåtdäck ger den eleganta utseendet på ett teakdäck utan något tidskrävande och kostsamt underhåll i samband med naturligt teakved. Detta gröna alternativ för teakved är tillverkat av naturliga fibers komposit (risskalfiber och återvunna polymerer) som är lätt att arbeta med och underhålla. Det är det perfekta alternativet att uppgradera din båt och byta ut den snusiga gamla mattan. NATURTEAK ™ håller solen och den marina miljön i flera år medan du njuter av mer av din fritid.
+                                Green Plank NATURTEAK ™ komposit teak båddæk giver det elegante look af et teaktræsdæk uden tidskrævende og dyr vedligeholdelse i forbindelse med naturligt teaktræ. Dette grønne alternativ til teaktræ er fremstillet af sammensatte naturfibre (risskalfibre og genbrugspolymerer), der er lette at arbejde med og vedligeholde. Det er den perfekte mulighed for at opgradere din båd og udskifte det snusket gamle tæppe. NATURTEAK ™ bevarer solen og havmiljøet i flere år, mens du nyder mere af din fritid.
+
                               </p>
                               <p>
-                                NATURTEAK ™ distribueras uteslutande av Green Plank och är speciellt formulerad med ingredienser som förhindrar att materialet torkar ut eller spricker över tid. Det har också det höga UV-skyddet för att förhindra blekning, insektsresistent, högsta fuktbeständighet, överlägsen vidhäftning och NATURTEAK ™ är stolta över att vara det enda naturfibrer som består av komposit teak-däck på marknaden.
+                                NATURTEAK ™ distribueres udelukkende af Green Plank og er specielt formuleret med ingredienser, der forhindrer materialet i at tørre ud eller revne over tid. Det har også den høje UV -beskyttelse for at forhindre fading, insektresistent, højeste fugtbestandighed, overlegen vedhæftning og NATURTEAK ™ er stolt over at være den eneste naturlige fiber, der består af sammensatte teaktræsdæk på markedet.
+
                               </p>
                               <p>
-                                Precis som äkta teakträ, kan våra NATURTEAK ™ -kompositplankor bearbetas, slipas eller sågas till vilken önskad form som helst utan att förlora det verkliga träeffektutseendet på NATURTEAK ™ -komposit.
+                                Ligesom ægte teaktræ kan vores NATURTEAK osit -kompositplanker bearbejdes, slibes eller saves til enhver ønsket form uden at miste det sande træeffektudseende af NATURTEAK ™ -komposit.
+
                               </p>
                               <div>
                                 <ul>
-                                  <li><strong>Premiumkvalitet</strong> –  Beprövade nordiska kvalitetsplankor för hårt marint väder och grönare levande.</li>
-                                  <li><strong>Bara fötter vänliga</strong> –  På grund av dess unika naturfibrer baserade sammansättning, håller NATURTEAK ™ komposit teakdäck däcken svalare.</li>
-                                  <li><strong>Praktisk</strong> –  Perfekt kombination av estetik och praktik med en naturlig teakträ design.</li>
-                                  <li><strong>Exceptionellt lågt underhåll </strong>–  Idealisk lämpad för marina väderförhållanden med minimal blekning, lång livslängd och minimalt underhåll.</li>
+                                  <li><strong>Premium kvalitet
+                                  </strong> –  Dokumenterede nordiske kvalitetsplanker til hårdt havvejr og grønnere livsstil.
+                                  </li>
+                                  <li><strong>Bare fødder venlige
+                                  </strong> –  På grund af sin unikke naturfiberbaserede sammensætning holder NATURTEAK osit komposit teakdæk dækkene køligere.
+                                  </li>
+                                  <li><strong>Praktisk</strong> –  Perfekt kombination af æstetik og praktisk med et design i naturligt teaktræ.
+                                  </li>
+                                  <li><strong>Usædvanlig lav vedligeholdelse
+                                  </strong>–  Ideel til marine vejrforhold med minimal blegning, lang levetid og minimal vedligeholdelse.
+                                  </li>
                                 </ul>
                               </div>
                             </div>
@@ -82,24 +95,25 @@ const naturplankkompositplankagp7241 = () => {
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="project-information">
-                                <h3>Produktinformation</h3>
+                                <h3>Produkt information</h3>
                                 <table width="100%">
                                   <tbody>
                                     <tr>
-                                      <td align="left"><strong>Yta:</strong></td>
-                                      <td align="left"> halkmotståndig slät yta, slående
-                                        utseende efterliknar exotiska, tropiska lövträ; vändbara brädor</td>
+                                      <td align="left"><strong>Overflade:</strong></td>
+                                      <td align="left">
+                                        skridsikker glat overflade, slående
+                                        udseende efterligner eksotisk, tropisk hårdttræ; vendbare brædder</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Storlek:</strong></td>
+                                      <td align="left"><strong>Størrelse:</strong></td>
                                       <td align="left">ca. 7 * 236 mm</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Längd:</strong></td>
+                                      <td align="left"><strong>Længde:</strong></td>
                                       <td align="left">ca. 2,4 m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Vikt:</strong></td>
+                                      <td align="left"><strong>Vægt:</strong></td>
                                       <td align="left">ca. 7.65 kg / m</td>
                                     </tr>
                                   </tbody>

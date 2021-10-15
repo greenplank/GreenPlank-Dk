@@ -36,26 +36,34 @@ const naturplankkompositplankagp7129 = () => {
                                             {/*==============  Star Naturplank  Section-1 content ====================*/}
                                             <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                                                 <div className="project-details">
-                                                    <h2>NATURPLANK™ Komposit plank – GP7129 – det gröna alternativet</h2>
-                                                    <strong>hållbart träalternativ med oändliga kreativa och designmöjligheter – PVC-fri!</strong>
+                                                    <h2>NATURAL PLANK ™ Kompositplanke - GP7129 - det grønne alternativ
+                                                    </h2>
+                                                    <strong>bæredygtigt træalternativ med uendelige kreative og designmuligheder - PVC -fri!
+                                                    </strong>
                                                     <div class="et_pb_text_inner">
                                                         <div class="ce_text block">
 
-                                                            <strong>Vackert realistiska och mycket praktisk med en tidlös kvalitet NATURPLANK™ komposit plankor är ett idealiskt val av landskapsarkitekter och byggare för att maximera livslängden för elementen i landskapet.</strong>
+                                                            <strong>Smukt realistisk og meget praktisk med en tidløs kvalitet NATURAL PLANK ™ sammensatte planker er et ideelt valg af landskabsarkitekter og bygherrer for at maksimere levetiden for elementerne i landskabet.
+                                                            </strong>
                                                             <p>
-                                                                Green Plank NATURPLANK™ högpresterande naturfibrer kompositplanka GP7129 är ett lågt underhållsalternativ till lövved, den har använts i ett brett spektrum av miljöer inklusive strandpromenader, broar, kustbryggor, offentliga parker, utomhusmatsalar, fritidsområden, skolor och företagsgrunder etc.
+                                                                Green Plank NATURPLANK ™ højtydende naturfibersammensatte planke GP7129 er et lavt vedligeholdelsesalternativ til hårdttræ, det er blevet brugt i en lang række miljøer, herunder promenader, broer, kystbroer, offentlige parker, udendørs spisestuer, fritidsområder, skoler og forretningsområder mv.
                                                             </p>
                                                             <p>
-                                                                Också känd som WPC, trä-plast-komposit, naturfibrer komposit eller komposit, är denna supertåliga komposittavla, som uteslutande distribueras av Green Plank, består av naturliga trä- / risskalfiber och polymerer (återvunnen plast) för att få en komposit med större styrka och hållbarhet än traditionellt trä. Detta ger det utmärkta motståndet mot sol, frost, regn och plötsliga temperaturförändringar.
+                                                                Også kendt som WPC, træplastkomposit, naturfiberkomposit eller komposit, består dette superholdbare kompositplade, der udelukkende distribueres af Green Plank, af naturlige træ / risskalfibre og polymerer (genbrugsplast) for at opnå en komposit med større styrke og holdbarhed end traditionelt træ. Dette giver fremragende modstandsdygtighed over for sol, frost, regn og pludselige temperaturændringer.
+
                                                             </p>
                                                             <p>
-                                                                Precis som äkta träplankor kan våra NATURPLANK™ GP7129 icke-spårade tunga däckskivor / kompositplankor slipas eller sågas till önskad form utan att förlora kompositskivans verkliga träeffekt.
+                                                                Ligesom ægte træplanker kan vores NATURPLANK ™ GP7129 ikke-rillede tunge dækplader / kompositplanker slibes eller saves til den ønskede form uden at miste den virkelige træeffekt af kompositpladen.
+
                                                             </p>
                                                             <div>
                                                                 <ul>
-                                                                    <li><strong>Premiumkvalitet</strong> – Beprövade nordiska kvalitetsplankor för hårt väder och grönare levande.</li>
-                                                                    <li><strong>Praktisk</strong> –  Perfekt kombination av estetik och praktik med en naturlig trä-look.</li>
-                                                                    <li><strong>Exceptionellt lågt underhåll </strong>–  Idealisk lämpad för nordiska väderförhållanden med minimal blekning, lång livslängd och minimalt underhåll.</li>
+                                                                    <li><strong>Premium kvalitet</strong> – Dokumenterede nordiske kvalitetsplanker til hårdt vejr og grønnere livsstil.
+                                                                    </li>
+                                                                    <li><strong>Praktisk</strong> –  Perfekt kombination af æstetik og praktisk med et naturligt trælook.</li>
+                                                                    <li><strong>Usædvanlig lav vedligeholdelse
+                                                                    </strong>– Ideel til nordiske vejrforhold med minimal blegning, lang levetid og minimal vedligeholdelse.
+                                                                    </li>
                                                                 </ul>
                                                             </div>
                                                         </div>
@@ -82,24 +90,26 @@ const naturplankkompositplankagp7129 = () => {
                                                                 <table width="100%">
                                                                     <tbody>
                                                                         <tr>
-                                                                            <td align="left"><strong>Yta:</strong></td>
-                                                                            <td align="left"> halkmotståndig slät yta,slående utseende efterliknar exotiska, tropiska lövträ.</td>
+                                                                            <td align="left"><strong>Overflade:</strong></td>
+                                                                            <td align="left"> skridsikker glat overflade, slående udseende efterligner eksotisk, tropisk hårdttræ.
+</td>
                                                                         </tr>
                                                                         <tr>
-                                                                            <td align="left"><strong>Storlek:</strong></td>
+                                                                            <td align="left"><strong>Størrelse
+:</strong></td>
                                                                             <td align="left">ca. 23 * 150 mm</td>
                                                                         </tr>
                                                                         <tr>
-                                                                            <td align="left"><strong>Längd:</strong></td>
+                                                                            <td align="left"><strong>Længde:</strong></td>
                                                                             <td align="left">ca. 3.6 m</td>
                                                                         </tr>
                                                                         <tr>
-                                                                            <td align="left"><strong>Vikt:</strong></td>
+                                                                            <td align="left"><strong>Vægt:</strong></td>
                                                                             <td align="left">ca. 7.65 kg / m</td>
                                                                         </tr>
                                                                         <tr>
-                                                                            <td align="left"><strong>Regelavstånd:</strong></td>
-                                                                            <td align="left">60 cm c/c för kommersiell användning</td>
+                                                                            <td align="left"><strong>Regelafstand:</strong></td>
+                                                                            <td align="left">60 cm c / c til kommerciel brug</td>
                                                                         </tr>
                                                                     </tbody>
                                                                 </table>

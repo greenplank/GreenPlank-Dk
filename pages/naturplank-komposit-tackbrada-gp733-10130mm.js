@@ -39,27 +39,41 @@ const naturplankkompositplankagp733 = () => {
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
                           <h2>
-                            NATURPLANK ™ Kompositplank – GP733 – Det gröna alternativet</h2>
-                          <strong>hållbart träalternativ med oändliga kreativa och designmöjligheter – PVC-fri!</strong>
+                            NATURAL PLANK ™ Kompositplanke - GP733 - Det grønne alternativ
+                          </h2>
+                          <strong>bæredygtigt træalternativ med uendelige kreative og designmuligheder - PVC -fri!
+                          </strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>Vackert realistiska och mycket praktisk med en tidlös kvalitet NATURPLANK ™ komposit plankor är ett idealiskt val av landskapsarkitekter och byggare för att maximera livslängden för elementen i landskapet.</strong>
+                              <strong>Smukt realistisk og meget praktisk med en tidløs kvalitet NATURAL PLANK ™ sammensatte planker er et ideelt valg af landskabsarkitekter og bygherrer for at maksimere levetiden for elementerne i landskabet.
+                              </strong>
                               <p>
-                                Green Plank NATURPLANK ™ Komposittäckbräda av Naturfiber GP733 kompletterar alla husets exteriörer. Green Plank Fascia Trim Boards finns i matchande färger och en borstad platt eller räfflad yta, och fungerar vackert som trim, fascia, soffit, hörnskivor, tak, dekorativt fräsverk, specialgjutning, wainscoting och mer.
+                                Green Plank NATURPLANK ™ Komposit dækplade af Naturfiber GP733 supplerer alle husets ydre. Green Plank Fascia Trim Boards fås i matchende farver og en børstet flad eller ribbet overflade, og fungerer smukt som trim, fascia, soffit, hjørnepaneler, lofter, dekorativ fræsning, specialstøbning, wainscoting og mere.
+
                               </p>
                               <p>
-                                Också känd som WPC, trä-plast-komposit, naturfibrer komposit eller komposit, är denna supertåliga komposittavla, som uteslutande distribueras av Green Plank, består av naturliga trä- / risskalfiber och polymerer (återvunnen plast) för att få en komposit med större styrka och hållbarhet än traditionellt trä. Detta ger det utmärkta motståndet mot sol, frost, regn och plötsliga temperaturförändringar.
+                                Også kendt som WPC, træplastkomposit, naturfiberkomposit eller komposit, består dette superholdbare kompositplade, der udelukkende distribueres af Green Plank, af naturlige træ / risskalfibre og polymerer (genbrugsplast) for at opnå en komposit med større styrke og holdbarhed end traditionelt træ. Dette giver fremragende modstandsdygtighed over for sol, frost, regn og pludselige temperaturændringer.
+
                               </p>
                               <p>
-                                Precis som äkta trä kan våra NATURPLANK ™ GP733 kompositplankor slipas eller sågas till vilken önskad form som helst utan att förlora kompositskivans verkliga träeffekt.
+                                Ligesom ægte træ kan vores NATURPLANK ™ GP733 kompositplanker slibes eller saves til enhver ønsket form uden at miste kompositpladens virkelige træeffekt.
+
                               </p>
                               <div>
                                 <ul>
-                                  <li><strong>Premiumkvalitet</strong> –  Beprövade nordiska kvalitetsplankor för hårt marint väder och grönare levande.</li>
-                                  <li><strong>Bara fötter vänliga</strong> –  På grund av dess unika naturfibrer baserade sammansättning, håller NATURTEAK ™ komposit teakdäck däcken svalare.</li>
-                                  <li><strong>Praktisk</strong> –  Perfekt kombination av estetik och praktik med en naturlig trä-look.</li>
-                                  <li><strong>Exceptionellt lågt underhåll </strong>–  Idealisk lämpad för nordiska väderförhållanden med minimal blekning, lång livslängd och minimalt underhåll.</li>
+                                  <li><strong>Premium kvalitet
+                                  </strong> – Dokumenterede nordiske kvalitetsplanker til hårdt havvejr og grønnere livsstil.
+                                  </li>
+                                  <li><strong>Bare fødder venlige
+                                  </strong> –  På grund af sin unikke naturfiberbaserede sammensætning holder NATURTEAK osit komposit teakdæk dækkene køligere.
+                                  </li>
+                                  <li><strong>Praktisk
+                                  </strong> – Perfekt kombination af æstetik og praktisk med et naturligt trælook.
+                                  </li>
+                                  <li><strong>Usædvanlig lav vedligeholdelse
+                                  </strong>–  Ideel til nordiske vejrforhold med minimal blegning, lang levetid og minimal vedligeholdelse.
+                                  </li>
                                 </ul>
                               </div>
                             </div>
@@ -82,23 +96,25 @@ const naturplankkompositplankagp733 = () => {
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="project-information">
-                                <h3>Produktinformation</h3>
+                                <h3>Produkt information</h3>
                                 <table width="100%">
                                   <tbody>
                                     <tr>
-                                      <td align="left"><strong>Yta:</strong></td>
-                                      <td align="left"> Vändbar bräda med en räfflad och en borstad plan yta.</td>
+                                      <td align="left"><strong>Overflade
+:</strong></td>
+                                      <td align="left"> Vendbart bræt med en rillet og en børstet flad overflade.
+</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Storlek:</strong></td>
+                                      <td align="left"><strong>Størrelse:</strong></td>
                                       <td align="left">ca. 10 * 130 mm</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Längd:</strong></td>
+                                      <td align="left"><strong>Længde:</strong></td>
                                       <td align="left">ca. 2.4 m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Vikt:</strong></td>
+                                      <td align="left"><strong>Vægt:</strong></td>
                                       <td align="left">ca. 1.61 kg / m</td>
                                     </tr>
                                   </tbody>
@@ -107,7 +123,7 @@ const naturplankkompositplankagp733 = () => {
 
                               <div className="row mt-60">
                                 <Grid container spacing={3}>
-                                <Grid item xs={6} sm={3} lg={4}>
+                                  <Grid item xs={6} sm={3} lg={4}>
                                     <a target="_blank" href="/bestall-prov" className="thm-btn" >Prøveordre</a>
                                   </Grid>
                                 </Grid>

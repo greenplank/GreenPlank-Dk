@@ -39,27 +39,40 @@ const naturplankkompositplankagp7120 = () => {
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
                           <h2>
-                            NATURPLANK™ Kompositplank – GP7120 – Det gröna alternativet</h2>
-                          <strong>hållbart träalternativ med oändliga kreativa och designmöjligheter – PVC-fri!</strong>
+                            NATURAL PLANK ™ Composite plank - GP7120 - Det grønne alternativ
+                          </h2>
+                          <strong>bæredygtigt træalternativ med uendelige kreative og designmuligheder - PVC -fri!
+                          </strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>Vackert realistiska och mycket praktisk med en tidlös kvalitet NATURPLANK ™ komposit plankor är ett idealiskt val av landskapsarkitekter och byggare för att maximera livslängden för elementen i landskapet.</strong>
+                              <strong>Smukt realistisk og meget praktisk med en tidløs kvalitet NATURAL PLANK ™ sammensatte planker er et ideelt valg af landskabsarkitekter og bygherrer for at maksimere levetiden for elementerne i landskabet.
+                              </strong>
                               <p>
-                                Green Plank NATURPLANK ™ högpresterande Kompositplank av naturliga fiber GP7120 är en annan hållbar lösning på trä för olika exteriörstillämpningar i parker, golfbanor, promenader, cykel- och naturstigar, vattenparker, skolor, företagsområden, resorts, hotell, restauranger och många andra kommersiella applikationer.
+                                Green Plank NATURPLANK ™ højtydende kompositplank lavet af naturfiber GP7120 er en anden bæredygtig løsning til træ til forskellige udendørs applikationer i parker, golfbaner, gå-, cykel- og naturstier, vandland, skoler, forretningsområder, feriesteder, hoteller, restauranter og mange andre kommercielle applikationer.
+
                               </p>
                               <p>
-                                Också känd som WPC, trä-plast-komposit, naturfibrer komposit eller komposit, är denna supertåliga komposittavla, som uteslutande distribueras av Green Plank, består av naturliga trä- / risskalfiber och polymerer (återvunnen plast) för att få en komposit med större styrka och hållbarhet än traditionellt trä. Detta ger det utmärkta motståndet mot sol, frost, regn och plötsliga temperaturförändringar.
+                                Også kendt som WPC, træplastkomposit, naturfiberkomposit eller komposit, består dette superholdbare kompositplade, der udelukkende distribueres af Green Plank, af naturlige træ / risskalfibre og polymerer (genbrugsplast) for at opnå en komposit med større styrke og holdbarhed end traditionelt træ. Dette giver fremragende modstandsdygtighed over for sol, frost, regn og pludselige temperaturændringer.
+
                               </p>
                               <p>
-                                Precis som äkta trä kan våra NATURPLANK ™ fyrkantiga GP7120-kompositplankor slipas eller sågas till vilken önskad form som helst utan att förlora kompositplankans verkliga träeffekt.
+                                Ligesom ægte træ kan vores NATURPLANK GP firkantede GP7120 kompositplanker slibes eller saves til enhver ønsket form uden at miste den virkelige træeffekt af kompositplanken.
+
                               </p>
                               <div>
                                 <ul>
-                                  <li><strong>Premiumkvalitet</strong> –  Beprövade nordiska kvalitetsplankor för hårt marint väder och grönare levande.</li>
-                                  <li><strong>Bara fötter vänliga</strong> –  På grund av dess unika naturfibrer baserade sammansättning, håller NATURTEAK ™ komposit teakdäck däcken svalare.</li>
-                                  <li><strong>Praktisk</strong> –  Perfekt kombination av estetik och praktik med en naturlig teakträ design.</li>
-                                  <li><strong>Exceptionellt lågt underhåll </strong>–  Idealisk lämpad för marina väderförhållanden med minimal blekning, lång livslängd och minimalt underhåll.</li>
+                                  <li><strong>Premium kvalitet
+                                  </strong> –  Dokumenterede nordiske kvalitetsplanker til hårdt havvejr og grønnere livsstil.
+                                  </li>
+                                  <li><strong>Bare fødder venlige
+                                  </strong> –  På grund af sin unikke naturfiberbaserede sammensætning holder NATURTEAK osit komposit teakdæk dækkene køligere.
+                                  </li>
+                                  <li><strong>Praktisk</strong> –  Perfekt kombination af æstetik og praktisk med et design i naturligt teaktræ.
+                                  </li>
+                                  <li><strong>Usædvanlig lav vedligeholdelse
+                                  </strong>–  Ideel til marine vejrforhold med minimal blegning, lang levetid og minimal vedligeholdelse.
+                                  </li>
                                 </ul>
                               </div>
                             </div>
@@ -82,29 +95,32 @@ const naturplankkompositplankagp7120 = () => {
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="project-information">
-                                <h3>Produktinformation</h3>
+                                <h3>Produkt information</h3>
                                 <table width="100%">
                                   <tbody>
                                     <tr>
-                                      <td align="left"><strong>Yta:</strong></td>
-                                      <td align="left"> halkmotståndig slät yta, slående
-                                        utseende efterliknar exotiska, tropiska lövträ; vändbara brädor</td>
+                                      <td align="left"><strong>Overflade:</strong></td>
+                                      <td align="left">
+                                        skridsikker glat overflade, slående
+                                        udseende efterligner eksotisk, tropisk hårdttræ; vendbare brædder</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Storlek:</strong></td>
+                                      <td align="left"><strong>Størrelse
+                                        :</strong></td>
                                       <td align="left">ca. 34 * 72 mm</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Längd:</strong></td>
+                                      <td align="left"><strong>Længde:</strong></td>
                                       <td align="left">ca. 3.6 m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Vikt:</strong></td>
+                                      <td align="left"><strong>Vægt:</strong></td>
                                       <td align="left">ca. 3.46 kg / m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Regelavstånd:</strong></td>
-                                      <td align="left">40 cm c/c för kommersiell användning</td>
+                                      <td align="left"><strong>Regelafstand:</strong></td>
+                                      <td align="left">40 cm c / c til kommerciel brug
+                                      </td>
                                     </tr>
                                   </tbody>
                                 </table>
