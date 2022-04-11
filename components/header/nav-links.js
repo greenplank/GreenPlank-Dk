@@ -69,7 +69,7 @@ const NavLinks = ({ extraClassName }) => {
               </li>
               <li>
                 <Link href="/klassisk-terrassebraedder">
-                  <a>Klassisk terrassebrædder</a>
+                  <a>Classic terrassebrædder</a>
                 </Link>
               </li>
               <li>

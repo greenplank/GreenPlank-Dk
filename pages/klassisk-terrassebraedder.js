@@ -21,7 +21,7 @@ const ClassicKomposittrall = () => {
             </Head>
             <Layout pageTitle="Classic Komposit terrassebrædder - GreenPlank.dk">
                 <HeaderTwo />
-                <PageHeader title="Klassisk terrassebrædder" crumbTitle="Klassisk terrassebrædder" />
+                <PageHeader title="Classic terrassebrædder" crumbTitle="Classic terrassebrædder" />
                 <StickyHeader />
                 <ClassicKomposittrallSection />
 
